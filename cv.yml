@@ -1,0 +1,112 @@
+title: Team Lead
+location: null
+phone: '+79167620052'
+email: 'gkochetoff@gmail.com'
+firstname: Georgii
+lastname: Kochetov
+executive_summary:
+  - Over 7 years of hand-on work experience with OpenText Content Suite (OpenText Extended ECM Suite, OpenText Livelink, OpenText Content Server, SAP Extended ECM).
+  - Extensive practical experience in custom module development, maintenance, configuration of OpenText Content Suite platform.
+  - 'Experience with complex integration approaches: Enterprise Web Services (EWS), SOAP, REST, AMQP, S3, Apache Camel, Camunda.'
+  - 'Architecture design: SOA, Microservices'
+technologies:
+  - OpenText Content Server (former Livelink) 9.7.1, 10.0, 10.5, 16, 20+
+  - OpenText Content Suite
+  - OpenText SAP Extended ECM Suite
+  - OpenText Content Server Smart UI, SDK, Builder, OScript
+  - WebReports, Livereports, OTDS, Classifications, XML Workflow Extensions, XML Workflow Interchange, Physical Objects, eLink, Case Management, Records Management, Object Importer, Object Exporter, Document Property Synchronization (DPS), SAP Activator for OpenText Extended ECM Suite, Enterprise Web Services, REST API.
+  - OpenText Archive Server
+  - MS SQL Server, Oracle, PostgreSQL
+  - OScript, Java, .NET, Python
+  - HTML, CSS, XML, XSLT, JavaScript, AJAX, Node.js, RequireJS, jQuery, Marionett, Angular
+education:
+  - item: 'Bachelor degree'
+    period: '2015'
+    organisation_name: Financial University under the Government of the Russian Federation, Moscow
+    description: Faculty of Applied Mathematics and Information Technology, Applied Informatics
+  
+  - item: 'OpenText Certification'
+    period: '2018 -- 2020'
+    organisation_name: OpenText
+    description: 
+      - OpenText Certified Administrator - Content Server 16.2.8
+      - OpenText Certified Consultant - Extended ECM for SAP Solutions 16
+      - OpenText Certified Consultant - Vendor Invoice Management for SAP Solutions 16.3
+      - OpenText Certified Developer - Content Server 16.2.8
+      - Content Server v16 Business Consultant Certification
+languages:
+  - name: Russian
+    level: native
+  - name: English
+    level: upper-intermediate
+about_me: 
+  - Certified Yacht Skipper
+  - Snowboarder
+  - Wakeboarder
+  - Traveller
+key_experience:
+
+  - item: 'Large telecomunication company PJSC Megafon'
+    period: '06.2020 -- Present'
+    role: Tech Lead
+    projects:
+      - Content Server integration architecture design.
+      - Custom module development for OpenText Content Server.
+      - Integration solutions development.
+      - Elaboration of design solutions for office processes, HR and power of attorney, client archive, digital signature
+    tasks:
+      - Workflow design, configuring OTCS Forms/Webforms, LiveReports, WebReports, etc.
+      - OScript development.
+      - SmartUI customization, integration with external systems, extension of event scripts, request handlers.
+      - Designing the architecture of current solutions
+      - Preparation of a technical development strategy
+      - Coordinating the internal and external development team
+      - Optimization of the development process – GitLab, CI/CD
+      - Interaction with external systems using message brokers (Kafka, RabbitMQ, SAP PI)
+      - Custom applications and services development using .net, WebApi, Angular, Marionett, Java
+
+  - item: 'OpenText'
+    period: '2018 -- 2020'
+    role: OpenText Senior consultant
+    projects:
+      - Projects architecture design.
+      - OpenText Content Server support and development.
+      - Documentum Capital Projects support and development.
+      - Upgrade the Content Server version of a customized solution.
+    tasks:
+      - OScript development.
+      - Java development.
+      - Technical documentation preparation (design solutions, specifications, architectural schemes).
+      - Audit of existing developments on OpenText products.
+      - Presentation of solutions, training of customer employees.
+
+  - item: Large retail company X5 RETAIL GROUP
+    period: '2017 -- 2018'
+    role: OpenText Developer-consultant
+    projects:
+      - Implementation and development of electronic document management processes (contracts, power of attorney, legal documents).
+    tasks:
+      - OScript development. 
+      - Workflow map development and configuration. 
+      - .Net, Angular and ExtJS development.
+      - Implementation of integration with third-party systems.
+
+  - item: 'OpenText partner company TerraLink'
+    period: '2014 -- 2017'
+    role: Developer.
+    projects:
+      - Implementation and development of electronic document management processes to different customers
+      - Web Services development
+      - OScript development.
+      - Workflow map development and configuration. 
+      - Custom software development using Java, .NET.
+    tasks:
+      - Development and configuration OpenText Content Server modules and components
+      - Development of client-server applications and high-load services using C#, ASP.NET Web API, EntityFramework, WCF, JavaScript (JQuery), AngularJS, Telerik
+      - Reports development using JasperReports, Birt, Crystal Reports
+      - Working with version control systems (Git, TFS)
+      - Query optimization, creation of stored procedures, tables and views in Oracle DBMS
+      - Technical documentation preparation (instructions, specifications, detailed technical design)
+      - Participation in the preparation of pre-sale activities (rapid development)
+      - Deployment and configuration of OpenText Content Server and its components and developed modules in the cluster zone, including customer's infrastructure
+
